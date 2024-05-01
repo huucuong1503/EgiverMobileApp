@@ -1,4 +1,5 @@
-Download the apk file to your android device 
+https://drive.google.com/file/d/1zvSG1cKnCZjqfTjhCHgWSkhv_ba96Fld/view?usp=sharing
+Download the apk file from link drive above to your android device 
 Navigate to Setting > Security.
 Check the option Unknown sources.
 Tap OK on the prompt message.
